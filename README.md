@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on something.
-- 📫 How to reach me munitprog@gmail.com
+- 📫 How to reach me munirprog@gmail.com
 
 <!---
 Munir-prog/Munir-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
