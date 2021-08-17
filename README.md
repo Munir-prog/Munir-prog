@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @Munir-prog.
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on something.
-- 📫 How to reach me munirprog@gmail.com
+<h3> Hey there ✋</h3>
 
-<!---
-Munir-prog/Munir-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-done\/
+Alex, Java Developer ☕️<br>
+Location: Ukraine
+  
+### Stack
+
+- Java
+- JDBC, PostgreSQL, MySQL
+- Servlet API
+- Hibernate
+- Spring (Core, MVC, Boot, Data JPA, Secutity)
+
+<br>
+
+[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=telegram)](https://t.me/uzing_s)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munir-prog&layout=compact)
