@@ -1,7 +1,7 @@
 <h3> Hey there ✋</h3>
 
-Alex, Java Developer ☕️<br>
-Location: Ukraine
+Munir, Java Developer ☕️<br>
+Location: Saint-Petersburg
   
 ### Stack
 
@@ -9,10 +9,10 @@ Location: Ukraine
 - JDBC, PostgreSQL, MySQL
 - Servlet API
 - Hibernate
-- Spring (Core, MVC, Boot, Data JPA, Secutity)
+- Spring (Core, MVC, AOP, Data JPA)
 
 <br>
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=telegram)](https://t.me/uzing_s)
+[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=telegram)](https://t.me/zmunir01)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munir-prog&layout=compact)
