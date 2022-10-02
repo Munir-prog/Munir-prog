@@ -15,4 +15,5 @@ Location: Saint-Petersburg
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=telegram)](https://t.me/mzikrullaev)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munir-prog&layout=compact)
 
