@@ -6,11 +6,15 @@ Location: Saint-Petersburg
 ### Stack
 
 - Java
-- JDBC, PostgreSQL, MySQL
-- Servlet API
+- SQL, PostgreSQL, MySQL
 - Hibernate
-- Spring (Core, MVC, AOP, Data JPA)
-
+- Spring Boot (Core, MVC, Security, AOP, Data JPA)
+- Maven, Gradle
+- JUnit
+- Liquibase, Flyway
+- Git, Linux, Jenkins
+- Javascript, jQuery
+- JDBC, Servlet API
 <br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=telegram)](https://t.me/mzikrullaev)
