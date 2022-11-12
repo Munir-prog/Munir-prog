@@ -13,7 +13,7 @@ Location: Saint-Petersburg
 - JUnit
 - Liquibase, Flyway
 - Git, Linux, Jenkins
-- Javascript, jQuery
+- Javascript, React, jQuery
 - JDBC, Servlet API
 <br>
 
